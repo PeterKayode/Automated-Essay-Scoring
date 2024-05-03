@@ -1,6 +1,6 @@
 # Automated Essay Scoring
 
-This repository contains code for the Kaggle competition on automated essay scoring.
+This repository contains my code for the Kaggle competition on automated essay scoring.
 
 ## Introduction
 Automated essay scoring (AES) is the process of evaluating and scoring essays using computer algorithms. In this competition, the goal is to develop a model that can accurately predict the scores of essays based on their content.
