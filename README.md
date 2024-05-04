@@ -29,7 +29,7 @@ Automated essay scoring (AES) is the process of evaluating and scoring essays us
 - nltk
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/PeterKayode/Automated-Essay-Scoring`
+1. Clone this repository: `git clone https://github.com/PeterKayode/Automated-Essay-Scoring`
 2. Navigate to the project directory: `cd Automated-Essay-Scoring`
 3. Install the required packages: `pip install -r requirements.txt`
 4. Run the code: `Automated Essay Scoring Kaggle Competition.ipynb`
